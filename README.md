@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wardunc1
 - 👀 I’m interested in ...Gaming, AI, Robotics,Spcae
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning ...Python, Git, Discord.Py, Javascript 
 - 💞️ I’m looking to collaborate on ...Small Learning projects
 - 📫 How to reach me ...in my DMs
 
